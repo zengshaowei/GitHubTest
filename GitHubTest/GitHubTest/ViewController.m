@@ -16,8 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"加了一行代码");
-    NSLog(@"加了一行代码");NSLog(@"加了一行代码");NSLog(@"加了一行代码");NSLog(@"加了一行代码");
+    
 }
 
 @end
